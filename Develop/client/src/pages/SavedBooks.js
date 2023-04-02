@@ -1,3 +1,4 @@
+//help code help from module 21 lesson 25 client/src/pages
 import React, { useState, useEffect } from 'react';
 import {
   Container,
@@ -16,8 +17,7 @@ import { GET_ME, REMOVE_BOOK } from '../utils/queries';
 const SavedBooks = () => {
 
   const [removeBook, {error}] = useMutation(REMOVE_BOOK);
-  const {loading, data} = useQuery(GET_ME);
-  const userData = data?.me || {};
+
 
 
   // create function that accepts the book's mongo _id value as param and deletes the book from the database
