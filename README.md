@@ -13,8 +13,8 @@
 Book search with MERN, Usetr is able to search for books and save books that they like. 
 Server is working, front end not working properly.
 ## Installation
-Link to application found [HERE](https://github.com/ColtonWilson/Book-Search-with-MERN)  
-Not working in Heroku, so just linking back to Github.  
+Link to application found [HERE](https://book-search-with-mern-cw.herokuapp.com/)  
+Not working in Heroku, won't Compile.  
 Show screenshot of working server
 ![Screenshot of working in localhost](https://github.com/ColtonWilson/Book-Search-with-MERN/blob/main/Screenshot%202023-04-02%20144335.png)  
 
